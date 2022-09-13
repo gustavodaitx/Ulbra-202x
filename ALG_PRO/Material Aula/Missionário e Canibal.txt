@@ -1,0 +1,11 @@
+Passo 01-passa um M e C
+Passo 02-volta um M 
+Passo 03-passa dois C
+Passo 04-volta um C
+Passo 05-passa dois M 
+Passo 06-volta um M e C 
+Passo 07-passa dois M 
+Passo 08-volta um C 
+Passo 09-passa dois C 
+Passo 10-volta um C 
+Passo 11-Passa dois C 

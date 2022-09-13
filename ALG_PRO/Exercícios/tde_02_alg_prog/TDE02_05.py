@@ -1,0 +1,5 @@
+nome=input("Digite o Nome do Funcionário:\n")
+codigo=float(input("Digite o Codigo do Funcionario:\n"))
+horas=float(input("Digite o numero de horas trabalhadas no mês:\n"))
+valor=float(input("Digite o valor por Horas Trabalhada:\n"))
+print("Cód.Func:"f'{codigo}:{nome},você recebera este mês R$ {horas*valor}')

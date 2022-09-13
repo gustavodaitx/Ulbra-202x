@@ -1,0 +1,6 @@
+Claculo IMC 
+
+passo 01 - solicitar altura 
+passo 02 - solicitar o peso
+passo 03 - (Passo 2 / Passo 01)²
+passo 04 - mostrar o IMC
