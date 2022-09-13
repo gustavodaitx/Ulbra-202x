@@ -1,0 +1,150 @@
+.tudo{ 
+	border:  0.3px #000;
+}
+
+body{
+
+	background-color: #e4f5f3;
+}
+.center {
+	margin: auto;
+	width: 90%;
+	padding: 10px;
+	text-align: center;
+	background-color: rgb(93, 220, 243);
+	border: 2px outset rgb(93, 220, 243);
+	border-radius: 60px;
+	font-style:normal;
+	font-weight: 400px;
+	font-size: 40px;
+	font-family:"Geneva";
+	
+	
+}
+
+.esquerda {			 
+	width: 45%;
+	height: 700px;
+	float: left; 
+	color:#000;
+	border-right: 3px solid black;
+	
+}
+.direita { 
+
+	width: 45%;
+	height: 700px;
+	float: left; 
+	border-left: 3px solid black;
+	
+
+
+}
+.esquerda2 {		
+		 
+	width:100%;
+	height: 200px;
+	float: left;
+	color: #000;
+	align-items: center;
+	
+	
+}
+
+.esquerda3 {		
+		 
+	width: auto;
+	height: 60px;
+	float: left;
+	background-color: #73f3f3;
+	border-radius: 60px;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+	border-right: 3px solid black;
+}
+
+.direita2 { 
+		 
+	width:50%;
+	height: 100px;
+	float: left;
+	background-color: #ebf3f3;
+	border-right: 3px solid rgb(143, 133, 133); 
+}
+.esquerdaimg {			 
+	width: 30%;
+	height:300px;
+	float: left; 
+	border-radius: 200px;
+}
+
+#img1{
+    border-radius: 120px;
+    border-style:initial;
+}
+
+#img2{
+    height: 25px;
+	font-size: 14px;
+	float: left;
+	background-color: #e4f5f3;
+	width: 25px;
+
+}
+
+.direitadados { 
+	width: 50%;
+	height: 100px;
+	float: left;
+	border-radius: 60px;
+	font-style:normal;
+	font-weight: 20px;
+	font-size: 30px;
+	font-family:Arial; 
+}
+.unica{
+	width: 100%;
+	background-color: #dddddd;
+	height: 100px;
+}
+.linha{
+	clear: both; /* garante a posição abaixo da divs superiores (esquerda e direita),  */
+}
+h1{
+	font-size: 30px;
+	font-family: 'Arial Black';
+	color: rgb(13, 15, 15);
+	vertical-align:baseline;
+}
+h2{
+	margin: auto;
+	width:auto;
+	padding: 10px;
+	text-align: :left;
+	font-size: 30px;
+	font-family:'Lucida Sans';
+	color: rgb(2, 44, 34);
+	height: 300px;	
+}
+h3{
+	margin: auto;
+	width: auto;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+	font-family:'Lucida Sans';
+	color: rgb(2, 44, 34);
+	height: 500px;
+}
+p1{
+	font-size: 18px;
+	font-family: "Arial";
+	margin:auto;
+	line-height: 1.8;
+}
+p2{
+	font-size:16px;
+	font-family:"Lucida Sans";
+	line-height: 1.8;
+}
