@@ -1,0 +1,86 @@
+*{
+    margin:0 auto;  
+  }
+  body{
+      background-color: #e2e2e2;
+  }
+  
+  .divtudo{
+      font-family: Arial, sans-serif;
+      
+  }
+  
+  
+  .divlinha{
+      clear:both
+  }
+  
+  .h2titulosessao{
+      font-size: 20px;
+  }
+
+  table{
+    text-align: center;
+  }
+
+  
+  
+  /*estilho do cabeçalho geral */
+  
+  
+  #divcabecalho{
+      background-color: #162e58;
+      min-height: 100px;
+      padding: 20px 50px 10px 50px;
+  }
+  
+  #h1titulocabecalho{
+      color:#ffff;
+      font-size: 16px;
+      float: left;
+      text-align: left;
+      min-height: 50%;
+
+  }
+  /*tabela elementos de classificação*/
+
+  #divclassificacao{
+
+    width:50%;
+    background-color: #ffff;
+
+  }
+
+  .tableclassificacao{
+    width: 100%;
+
+  }
+
+  .h3titulogrupo{
+    font-size: 14px;
+
+  }
+
+   /* tabela goleadores */
+
+  #divgoleadores{
+    width: 50%;
+    background-color: #ffff;
+  }
+  #tablegoleadores{
+    width: 100%;
+    background-color: #ffff;
+  }
+
+  /* estilo jogos */
+
+  #divjogos{
+    width: 50%;
+    background-color: #ffff;
+  }
+
+  #tablejogos{
+    width: 100%;
+    background-color:#ffff;
+
+  }
