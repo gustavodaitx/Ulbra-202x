@@ -1,0 +1,208 @@
+*{
+    margin:0 auto;  
+  }
+  body{
+      background-color: #e2e2e2;
+  }
+  
+  .divtudo{
+      font-family: Arial, sans-serif;   
+  }
+
+  .divlinha{
+      clear:both
+  }
+  
+  .h2titulosessao{
+      font-size: 20px;
+      padding: 10px;
+  }
+
+  table, td, th{
+    border-collapse: collapse ;
+    border-bottom: solid 1px #e2e2e2;
+    padding: 7px 7px 7px 7px;
+
+  }
+
+  th{
+    color: darkgrey;
+    font-weight: normal; 
+    font-size: 14px;
+    text-align: center;
+  }
+
+  td{
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .imgClube{
+    width: 20px;
+    height: 20px;
+    
+  }
+  
+  /*estilho do cabeçalho geral */
+  
+  
+  #divcabecalho{
+      background-color: #162e58;
+      min-height: 100px;
+      padding: 20px 50px 10px 50px;
+  }
+  
+  #h1titulocabecalho{
+      color:#ffff;
+      font-size: 16px;
+      float: left;
+      text-align: left;
+      min-height: 50%;
+
+  }
+  /*tabela elementos de classificação*/
+
+  #divclassificacao{
+
+    width:50%;
+    background-color: #ffff;
+
+  }
+
+  .tableclassificacao{
+    width: 100%;
+
+  }
+
+  .h3titulogrupo{
+    font-size: 14px;
+    padding: 5px 5px 5px 5px;
+
+  }
+
+  .divEmp{
+    background-image: url("../img/empate.svg");
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+
+  }
+
+  .divVit{
+    background-image: url("../img/vitoria.svg");
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+
+  }
+
+  .divDer{
+    background-image: url("../img/derrota.svg");
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: left;
+    margin-right: 5px;
+  }
+
+  .tdPosicao{
+    width: 3%;
+    font-size: 14px;
+  }
+
+  .tdImgClube{
+    width: 5%;
+
+  }
+
+  .tdNomeClube{
+    width: 40%;
+    text-align: left;
+
+
+  }
+
+  .thUltimas{
+    width: 20%;
+  }
+
+  .thNomeClube{
+    width: 50%;
+    text-align: left;
+  }
+
+   /* tabela goleadores */
+
+  #divgoleadores{
+    width: 50%;
+    background-color: #ffff;
+  }
+  #tablegoleadores{
+    width: 100%;
+    background-color: #ffff;
+  }
+  .tdJogador{
+    width: 90%;
+    text-align: left;
+
+  }
+  .SpanNomeClube{
+    font-size: 12px;
+    color: darkgray;
+  }
+
+  #tablegoleadores td{
+    padding: 20px 10px 10px 10px;
+  }
+
+  #thJogador{
+    text-align: left;
+  }
+
+  /* estilo jogos */
+
+  
+
+  #divJogos{
+    width: 50%;
+    padding-bottom: 50px;
+    background-color: #ffff;
+  }
+
+  #tablejogos{
+    width: 100%;
+    background-color:#ffff;
+
+  }
+
+  #tableJogos .tdTableJogos{
+    padding: 10px 10px 10px 10px;
+  }
+
+  .tableJogo{
+    width: 100%;
+    
+  }
+
+  .tableJogo th{
+    text-align: left;
+  }
+
+  .tableJogo .tdClube{
+    text-align: left;
+    width: 80%;
+  }
+
+  .tableJogo .tdHorario{
+    width: 20%;
+    font-size: 10px;
+    text-align: center;
+  }
+
+  #tableJogos th, #tableJogos td{
+    border-bottom: 0px;
+  }
