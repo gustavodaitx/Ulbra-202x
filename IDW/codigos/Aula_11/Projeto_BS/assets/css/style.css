@@ -1,0 +1,22 @@
+.imgCarrosel{
+    width:600px;
+    height: 600px;
+    text-align: center;
+    max-height: 600px;
+    align-items: center;
+}
+
+#imgCarrosel{
+    max-width: 700px;
+    max-height: 700px;
+}
+
+.h2Modal{
+    text-align: center;
+    color: red;
+}
+
+#h4Modal{
+    text-align: center;
+    color: red;
+}
